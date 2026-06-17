@@ -100,7 +100,7 @@ MongoDB / MySQL Database
 
 ---
 
-## ⚙️ Installation
+## ⚙️ Installation & Setup
 
 ### 1. Clone Repository
 
@@ -109,27 +109,67 @@ git clone https://github.com/hiflyer246/Emotion-Aware-AI-Mock-Interview-System.g
 cd Emotion-Aware-AI-Mock-Interview-System
 ```
 
-### 2. Backend Setup
+### 2. Create and Activate Virtual Environment
 
 ```bash
-cd backend-20260617T174429Z-3-001/backend
-
-pip install -r requirements.txt
-
-python app.py
+python -m venv venv
+venv\Scripts\activate
 ```
 
-### 3. Frontend Setup
+### 3. Install Backend Dependencies
 
 ```bash
-cd frontend-20260617T174429Z-3-001/frontend
+cd backend
+pip install -r requirements.txt
+```
 
+### 4. Install Frontend Dependencies
+
+Open a new terminal:
+
+```bash
+cd frontend
 npm install
-
-npm start
 ```
 
 ---
+
+## 🚀 Running the Application
+
+### Start Frontend
+
+Open Terminal 1:
+
+```bash
+cd frontend
+npm run dev
+```
+
+### Start Backend
+
+Open Terminal 2:
+
+```bash
+venv\Scripts\activate
+cd backend
+python app.py
+```
+
+---
+
+## 🌐 Access the Application
+
+Frontend:
+
+```text
+http://localhost:5173
+```
+
+Backend API:
+
+```text
+http://localhost:8000
+```
 
 ## 📸 Key Modules
 
