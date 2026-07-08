@@ -62,28 +62,29 @@ MongoDB
 
 ### Frontend
 - React.js
+- Vite
+- Tailwind CSS
 - HTML5
 - CSS3
 - JavaScript
 
 ### Backend
 - Python
-- FastAPI / Flask
+- FastAPI
+- Uvicorn
 
 ### Database
 - MongoDB
-- MySQL
+- Motor (Async MongoDB Driver)
 
 ### AI & Computer Vision
+- Google Gemini API
+- DeepFace
 - OpenCV
-- Deep Learning Models
-- Emotion Recognition
+- TensorFlow
 
-### Development Tools
-- Git
-- GitHub
-- VS Code
-
+### Authentication
+- JSON Web Tokens (JWT)
 ---
 
 ## 📂 Project Structure
