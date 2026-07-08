@@ -1,8 +1,6 @@
-# 🎯 Emotion-Aware AI Mock Interview System for Skill Assessment
+# 🎯 Emotion-Aware Coding & AI Interview Platform
 
-An AI-powered mock interview platform that combines **coding practice, emotion recognition, and progress tracking** to provide a personalized interview preparation experience.
-
-The system analyzes a learner's emotional state during coding and interview sessions, helping identify patterns such as focus, confusion, frustration, and engagement. By integrating emotion awareness with technical skill assessment, the platform offers a more interactive and supportive learning environment.
+An AI-powered learning platform that combines coding practice, AI-powered mock interviews, real-time emotion recognition, and performance analytics to provide a personalized technical learning experience.
 
 ---
 
@@ -12,6 +10,12 @@ The system analyzes a learner's emotional state during coding and interview sess
 - Secure user registration and login
 - Personalized interview and coding sessions
 - Session-based progress tracking
+
+### 🎮 Story Mode
+- Narrative-based coding challenges
+- XP and level progression
+- Building restoration mechanics
+- Gamified learning experience
 
 ### 💻 Coding Practice Environment
 - Interactive coding challenges
@@ -29,9 +33,8 @@ The system analyzes a learner's emotional state during coding and interview sess
 - View coding performance history
 - Monitor learning progress over time
 - Personalized performance analytics
-
-### ⚡ Integrated Workflow
-Authentication → Coding Session → Emotion Analysis → Progress Tracking
+- XP and level tracking
+- Leaderboard support
 
 ---
 
