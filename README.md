@@ -41,18 +41,19 @@ Authentication → Coding Session → Emotion Analysis → Progress Tracking
 User
   │
   ▼
-Frontend (React)
+Frontend (React + Vite)
   │
   ▼
-Backend API (FastAPI / Flask)
+Backend API (FastAPI)
   │
   ├── Authentication Module
-  ├── Coding Engine
-  ├── Session Manager
+  ├── Story Mode (Coding Engine)
+  ├── Interview Module
   ├── Emotion Detection Module
+  ├── AI Integration (Gemini)
   │
   ▼
-MongoDB / MySQL Database
+MongoDB
 ```
 
 ---
